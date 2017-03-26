@@ -7,52 +7,47 @@ module.exports = {
      */
     "QUESTIONS_EN_GB" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "How many children do you have?": [
+                "3",
+                "1",
+                "2",
+                "4"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "How many grandchildren do you have?": [
+                "8",
+                "4",
+                "5",
+                "6",
+                "7",
+                "9",
+                "10"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "What island are you currently living on?": [
+                "Big Island",
+                "O'ahu",
+                "Lana'i",
+                "Maui",
+                "Kaua'i",
+                "Ni'ihau",
+                "Kaho'olawe",
+                "Moloka'i"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "What sport does your eldest son coach?": [
+                "Tennis",
+                "Football",
+                "Golf",
+                "Soccer",
+                "Judo"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
-            ]
-        },
-        {
-            "What of the following is not true?": [
+            "": [
                 "Caribou live on all continents",
                 "Both reindeer and Caribou are the same species",
                 "Caribou are bigger than reindeer",
